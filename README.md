@@ -1,10 +1,27 @@
 <p align="center">
-  <img width="120" height="120" src="./statis/test.png"/>
-  <h3>
-    NotEnoughSamoyeds
-  </h3>
+  <img width="120" height="120" src="./static/pfp.png"/>
 </p>
----
+<h3 align="center">
+  NotEnoughSamoyeds
+</h3>
+
+## About Me
+\- WIP -
+
+## Projects
+\- WIP -
+
+## Technical Skills
+* Proficient in Roblox Studio for creating games
+* Strong understanding of Lua programming for Roblox development
+* Intermediate at User Interface design
+
+## Past Projects
+\- WIP -
+
+
+
+
 <!--
 **notenoughsamoyeds/notenoughsamoyeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
