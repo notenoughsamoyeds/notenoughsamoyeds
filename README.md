@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<p align="center">
+  <img width="120" height="120" src="./statis/test.png"/>
+  <h3>
+    NotEnoughSamoyeds
+  </h3>
+</p>
+---
 <!--
 **notenoughsamoyeds/notenoughsamoyeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
