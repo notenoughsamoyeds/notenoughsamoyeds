@@ -12,9 +12,6 @@
 \- WIP -
 
 ## Technical Skills
-* Proficient in Roblox Studio for creating games
-* Strong understanding of Lua programming for Roblox development
-* Intermediate at User Interface design
 
 ## Past Projects
 \- WIP -
